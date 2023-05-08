@@ -10,6 +10,7 @@ En este curso aprendí:
 - Trucos muy locos del profesor y sus multiples personalidades.
 - Creado por el increible team de Platzi.
 - Incluye ejemplos en Windows, Linux y Mac.
+- Disponible para todas las edades.
 
 
 Y como un recordatorio **Este README.md es casi un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES TAN EN SERIO y mejor ve [**ve a ver**](http://https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/ "ve a ver")
