@@ -8,6 +8,7 @@ En este curso aprendí:
 - El flujo de trabajo de Github.
 - El verdadero amor por las buenas practicas "antes de dar un push (empujar) primero un pull (jale)".
 - Trucos muy locos del profesor y sus multiples personalidades.
+- Creado por el increible team de Platzi.
 
 Y como un recordatorio **Este README.md es casi un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES TAN EN SERIO y mejor ve [**ve a ver**](http://https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/ "ve a ver")
 
